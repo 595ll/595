@@ -14,6 +14,8 @@ const noTexts = [
     "不行:("
 ];
 
+// @33tt
+
 // No 按钮点击事件
 noButton.addEventListener("click", function() {
     clickCount++;
